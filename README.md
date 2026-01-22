@@ -40,11 +40,13 @@
 
 ### 🐧 Operating System
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
-**Distribution**: Arch Linux (Rolling)  
-**Init System**: systemd  
+**Primary (70%)**: Arch Linux (Rolling)  
+**Secondary (30%)**: Windows 10/11  
+**Init System**: systemd (Linux)  
 **Package Manager**: `pacman` + `yay` (AUR)  
-**Philosophy**: KISS principle, user control
+**Philosophy**: KISS principle, dual-boot flexibility
 
 </td>
 <td width="33%" align="center">
@@ -62,11 +64,11 @@
 <td width="33%" align="center">
 
 ### ⚡ Terminal Setup
-<img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
 
-**Primary Shell**: Zsh (custom .zshrc)  
-**Secondary**: Bash scripting  
+**Shell**: Bash (custom .bashrc)  
+**Multiplexer**: tmux (persistent sessions)  
 **Tools**: grep, sed, awk, find  
 **Automation**: Shell scripts, aliases
 
@@ -74,7 +76,7 @@
 </tr>
 <tr>
 <td colspan="3" align="center">
-<img src="https://img.shields.io/badge/━━━━━━━━━_SYSTEM_OPTIMIZED_FOR_PERFORMANCE_━━━━━━━━━-2ECC71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/━━━━━━━━━_DUAL_BOOT_OPTIMIZED_━━━━━━━━━-2ECC71?style=for-the-badge"/>
 </td>
 </tr>
 </table>
@@ -159,21 +161,9 @@
 
 <div align="center">
 
-### 📈 Commit Frequency Analysis
+### 📈 Development Timeline
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OFX-AXOS&theme=react-dark&hide_border=true&bg_color=0d1117&color=1793D1&line=58a6ff&point=1793D1&area=true&area_color=1793D1&title_color=58a6ff&custom_title=Development%20Activity%20Timeline" alt="Contribution Graph" width="95%"/>
-
-<table>
-<tr>
-<td width="100%">
-
-**Commit Streak & Statistics**
-
-<img src="https://github-readme-streak-stats.vercel.app/?user=OFX-AXOS&theme=dark&hide_border=true&background=0d1117&stroke=1793D1&ring=58a6ff&fire=58a6ff&currStreakLabel=1793D1&sideLabels=1793D1&currStreakNum=58a6ff&sideNums=58a6ff" alt="GitHub Streak" width="100%"/>
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OFX-AXOS&bg_color=0d1117&color=2ECC71&line=1793D1&point=58a6ff&area=true&hide_border=true&custom_title=Commit%20Activity%20Graph" alt="Contribution Graph" width="95%"/>
 
 </div>
 
@@ -258,7 +248,6 @@ development:
 
 environment:
   primary_os: "Arch Linux"
-  shell: "Zsh (custom .zshrc)"
   workflow: "CLI-First Development"
   version_control: "Git + GitHub"
   automation: "Shell Scripts & Aliases"
@@ -327,8 +316,8 @@ patience = prerequisite_for_quality
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
 </p>
 
