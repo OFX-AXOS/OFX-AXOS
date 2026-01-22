@@ -18,7 +18,9 @@
 </p>
 
 <p align="center">
-  <code>Status: Active | Focus: Fundamentals | Base: Arch Linux</code>
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-OPERATIONAL-2ECC71?style=for-the-badge"/>
 </p>
 
 ---
@@ -31,7 +33,7 @@
 
 **Operating System**
 
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
 
 Rolling release  
 CLI-first workflow
@@ -41,7 +43,7 @@ CLI-first workflow
 
 **Shell Environment**
 
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 
 Custom aliases  
 Script automation
@@ -51,7 +53,7 @@ Script automation
 
 **Code Editor**
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 Extensions configured  
 Multi-language support
@@ -61,7 +63,7 @@ Multi-language support
 
 **Terminal**
 
-<img src="https://img.shields.io/badge/Terminal-000000?style=flat-square&logo=windowsterminal&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
 
 tmux sessions  
 Productivity-focused
@@ -122,12 +124,12 @@ Productivity-focused
 ### Current Proficiencies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-282828?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/HTML5-282828?style=flat-square&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-282828?style=flat-square&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/Python-282828?style=flat-square&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/GDScript-282828?style=flat-square&logo=godotengine&logoColor=478CBF"/>
-  <img src="https://img.shields.io/badge/C-282828?style=flat-square&logo=c&logoColor=A8B9CC"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
 **Level**: Beginner → Intermediate  
@@ -139,10 +141,10 @@ Productivity-focused
 ### Active Learning Paths
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Game_Logic-1793D1?style=flat-square&logo=godotengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Fundamentals-1793D1?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web_Architecture-1793D1?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/System_Programming-1793D1?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Game_Logic-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Fundamentals-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web_Architecture-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System_Programming-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
 **Method**: Reading production codebases, small project iterations  
@@ -250,12 +252,12 @@ tools = "understand_before_abstract"
 ## 🛠️ Toolchain & Workflow
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
 ---
@@ -265,5 +267,5 @@ tools = "understand_before_abstract"
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OFX-AXOS&color=1793D1&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=OFX-AXOS&color=1793D1&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
