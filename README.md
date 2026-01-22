@@ -163,7 +163,6 @@
 <table>
 <tr>
 <td width="50%">
-Consistency Metrics
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OFX-AXOS&theme=github_dark&utcOffset=5.75" alt="Productive Time"/>
 </td>
 </tr>
