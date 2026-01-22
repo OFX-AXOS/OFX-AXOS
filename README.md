@@ -163,10 +163,6 @@
 <table>
 <tr>
 <td width="50%">
-Weekly Commit Pattern
-<img src="https://github-readme-streak-stats.vercel.app/?user=OFX-AXOS&theme=dark&hide_border=true&background=0d1117&stroke=1793D1&ring=58a6ff&fire=58a6ff&currStreakLabel=1793D1&sideLabels=1793D1&currStreakNum=58a6ff&sideNums=58a6ff" alt="GitHub Streak"/>
-</td>
-<td width="50%">
 Consistency Metrics
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OFX-AXOS&theme=github_dark&utcOffset=5.75" alt="Productive Time"/>
 </td>
