@@ -1,37 +1,80 @@
-<h1 align="center">Arjun Khanal</h1>
+<!-- ================================================= -->
+
+<!--  AXOS · OFX-AXOS | GitHub Profile README         -->
+
+<!-- ================================================= -->
+
+<pre align="center">
+ █████╗ ██╗  ██╗ ██████╗ ███████╗
+██╔══██╗╚██╗██╔╝██╔═══██╗██╔════╝
+███████║ ╚███╔╝ ██║   ██║███████╗
+██╔══██║ ██╔██╗ ██║   ██║╚════██║
+██║  ██║██╔╝ ██╗╚██████╔╝███████║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+</pre>
+
+<h2 align="center">Arjun Khanal</h2>
 <p align="center">
   <b>AXOS · OFX-AXOS</b><br/>
-  Student Developer · Hobbyist Engineer
+  Student Developer · Linux Power User
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-ABSOLUTE_ZERO-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Fundamentals-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Theme-GitHub_Dark-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Status-ABSOLUTE_ZERO-black?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧩 Profile Snapshot
+## 🧠 Identity Matrix
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Student_Developer-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Experience-Beginner-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Interests-GameDev_|_Web_|_AI-purple?style=flat-square"/>
-</p>
+<table>
+<tr>
+<td width="50%">
 
-I am a **student and hobbyist developer** focused on building a solid technical base before specialization.
-My approach prioritizes **understanding systems**, **reading real-world code**, and **progressive skill acquisition**.
+**Who**
 
-This profile represents an **early but intentional stage** of development.
+* Student & hobbyist developer
+* Linux-first workflow
+* Comfortable with CLI, tooling, and system configs
+
+**How**
+
+* Fundamentals before abstractions
+* Read real codebases
+* Build small, iterate hard
+
+</td>
+<td width="50%">
+
+**Focus Areas**
+
+* 🎮 Game Development (Godot)
+* 🌐 Web Development
+* 🤖 AI foundations
+* ⚙️ Systems & tooling
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚙️ Technology Stack
+## 🧰 Environment & Toolchain
 
-### Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Advanced_User-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Arch-I_use_Arch_btw-1793D1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Workflow-Git_+_CLI-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IDE-Multi--IDE_Usage-black?style=flat-square"/>
+</p>
 
-<p align="left">
+---
+
+## 💻 Languages & Tech
+
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3"/>
@@ -40,61 +83,84 @@ This profile represents an **early but intentional stage** of development.
   <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c"/>
 </p>
 
-### Tools & Platforms
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Godot-0d1117?style=for-the-badge&logo=godotengine"/>
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux"/>
+<p align="center">
+  <sub>Beginner level · Emphasis on understanding and correctness</sub>
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🔀 Contribution Graph
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Game_Development-Godot-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Web_Development-Fundamentals-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI-Beginner_Level-success?style=flat-square"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OFX-AXOS&theme=github-dark&hide_border=true"/>
 </p>
-
-* Game mechanics, logic, and systems using **Godot**
-* Core **web development concepts**
-* Introductory **AI and ML foundations**
 
 ---
 
-## 📈 Development Metrics
+## 📊 Development Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=24555&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark" />
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=24555&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&langs_count=8&theme=github_dark"/>
 </p>
 
 {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 
 ---
 
-## 🧪 Project Status
+## 🧱 Project Cards
+
+<table>
+<tr>
+<td width="33%">
+
+### 🎮 Game Project
+
+<img src="https://img.shields.io/badge/Status-Planning-inactive?style=flat-square"/>
+
+Godot-based game systems
+Mechanics · Logic · Iteration
+
+</td>
+<td width="33%">
+
+### 🌐 Web Project
+
+<img src="https://img.shields.io/badge/Status-Exploring-inactive?style=flat-square"/>
+
+Core web fundamentals
+HTML · CSS · JS
+
+</td>
+<td width="33%">
+
+### 🤖 AI Experiments
+
+<img src="https://img.shields.io/badge/Status-Learning-inactive?style=flat-square"/>
+
+AI basics & concepts
+Math · Models · Curiosity
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public_Projects-0-inactive?style=for-the-badge"/>
+  <sub>Cards activate once projects meet internal quality standards.</sub>
 </p>
 
-No projects are currently showcased.
-Work is exploratory and foundational; repositories will be published once they meet internal quality standards.
-
 ---
 
-## 📐 Principles
+## 📐 Operating Rules
 
-* Fundamentals > Frameworks
-* Read code before writing abstractions
-* Build small, verify often
-* Consistency beats intensity
+<p align="center">
+  <img src="https://img.shields.io/badge/Fundamentals>Frameworks-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Linux_First-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Read_Code_Often-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Consistency_Wins-black?style=flat-square"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System-State_INITIALIZING-0d1117?style=for-the-badge"/>
+  <sub>System online · Baseline established · Iteration inevitable</sub>
 </p>
