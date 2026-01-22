@@ -157,18 +157,22 @@
 
 ---
 
-## 🔀 Contribution Activity
-
 <div align="center">
-
-### 📈 Development Timeline
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OFX-AXOS&bg_color=0d1117&color=2ECC71&line=1793D1&point=58a6ff&area=true&hide_border=true&custom_title=Commit%20Activity%20Graph" alt="Contribution Graph" width="95%"/>
-
+📈 Commit Frequency Analysis
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OFX-AXOS&theme=react-dark&hide_border=true&bg_color=0d1117&color=1793D1&line=58a6ff&point=1793D1&area=true&area_color=1793D1&title_color=58a6ff&custom_title=Development%20Activity%20Timeline" alt="Contribution Graph" width="95%"/>
+<table>
+<tr>
+<td width="50%">
+Weekly Commit Pattern
+<img src="https://github-readme-streak-stats.vercel.app/?user=OFX-AXOS&theme=dark&hide_border=true&background=0d1117&stroke=1793D1&ring=58a6ff&fire=58a6ff&currStreakLabel=1793D1&sideLabels=1793D1&currStreakNum=58a6ff&sideNums=58a6ff" alt="GitHub Streak"/>
+</td>
+<td width="50%">
+Consistency Metrics
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OFX-AXOS&theme=github_dark&utcOffset=5.75" alt="Productive Time"/>
+</td>
+</tr>
+</table>
 </div>
-
----
-
 ## ⏱️ Development Metrics
 
 <p align="center">
