@@ -62,11 +62,11 @@
 <td width="33%" align="center">
 
 ### ⚡ Terminal Setup
+<img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
 
-**Shell**: Bash (custom .bashrc)  
-**Multiplexer**: tmux (persistent sessions)  
+**Primary Shell**: Zsh (custom .zshrc)  
+**Secondary**: Bash scripting  
 **Tools**: grep, sed, awk, find  
 **Automation**: Shell scripts, aliases
 
@@ -165,18 +165,11 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
-**Weekly Commit Pattern**
+**Commit Streak & Statistics**
 
-<img src="https://github-readme-streak-stats.vercel.app/?user=OFX-AXOS&theme=dark&hide_border=true&background=0d1117&stroke=1793D1&ring=58a6ff&fire=58a6ff&currStreakLabel=1793D1&sideLabels=1793D1&currStreakNum=58a6ff&sideNums=58a6ff" alt="GitHub Streak"/>
-
-</td>
-<td width="50%">
-
-**Consistency Metrics**
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OFX-AXOS&theme=github_dark&utcOffset=5.75" alt="Productive Time"/>
+<img src="https://github-readme-streak-stats.vercel.app/?user=OFX-AXOS&theme=dark&hide_border=true&background=0d1117&stroke=1793D1&ring=58a6ff&fire=58a6ff&currStreakLabel=1793D1&sideLabels=1793D1&currStreakNum=58a6ff&sideNums=58a6ff" alt="GitHub Streak" width="100%"/>
 
 </td>
 </tr>
@@ -265,6 +258,7 @@ development:
 
 environment:
   primary_os: "Arch Linux"
+  shell: "Zsh (custom .zshrc)"
   workflow: "CLI-First Development"
   version_control: "Git + GitHub"
   automation: "Shell Scripts & Aliases"
@@ -333,8 +327,8 @@ patience = prerequisite_for_quality
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
 </p>
 
