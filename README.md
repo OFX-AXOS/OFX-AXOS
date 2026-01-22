@@ -27,60 +27,59 @@
 
 ## 🖥️ Development Environment
 
+<div align="center">
+
 <table>
 <tr>
-<td width="25%" align="center">
+<td colspan="3" align="center">
+<img src="https://img.shields.io/badge/━━━━━━━━━_CORE_SYSTEM_━━━━━━━━━-1793D1?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
 
-**Operating System**
-
+### 🐧 Operating System
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
 
-Rolling release  
-CLI-first workflow
+**Distribution**: Arch Linux (Rolling)  
+**Init System**: systemd  
+**Package Manager**: `pacman` + `yay` (AUR)  
+**Philosophy**: KISS principle, user control
 
 </td>
-<td width="25%" align="center">
+<td width="33%" align="center">
 
-**Shell Environment**
-
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-
-Custom aliases  
-Script automation
-
-</td>
-<td width="25%" align="center">
-
-**Code Editor**
-
+### 💻 Development Stack
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
 
-Extensions configured  
-Multi-language support
+**Primary IDE**: VS Code (Extensions)  
+**Terminal Editor**: Vim/Neovim  
+**Version Control**: Git + GitHub  
+**Workflow**: CLI-first, GUI when needed
 
 </td>
-<td width="25%" align="center">
+<td width="33%" align="center">
 
-**Terminal**
+### ⚡ Terminal Setup
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
+**Shell**: Bash (custom .bashrc)  
+**Multiplexer**: tmux (persistent sessions)  
+**Tools**: grep, sed, awk, find  
+**Automation**: Shell scripts, aliases
 
-tmux sessions  
-Productivity-focused
-
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center">
+<img src="https://img.shields.io/badge/━━━━━━━━━_SYSTEM_OPTIMIZED_FOR_PERFORMANCE_━━━━━━━━━-2ECC71?style=for-the-badge"/>
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>System Configuration Details</b></summary>
-
-**Package Manager**: `pacman` + `yay` (AUR helper)  
-**Version Control**: `git` with custom `.gitconfig`  
-**Workflow**: Git + CLI-based development cycle  
-**Philosophy**: Minimal dependencies, maximum control
-
-</details>
+</div>
 
 ---
 
@@ -158,9 +157,32 @@ Productivity-focused
 
 ## 🔀 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OFX-AXOS&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=1793D1&point=58a6ff&area=true" alt="Contribution Graph" width="95%"/>
-</p>
+<div align="center">
+
+### 📈 Commit Frequency Analysis
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OFX-AXOS&theme=react-dark&hide_border=true&bg_color=0d1117&color=1793D1&line=58a6ff&point=1793D1&area=true&area_color=1793D1&title_color=58a6ff&custom_title=Development%20Activity%20Timeline" alt="Contribution Graph" width="95%"/>
+
+<table>
+<tr>
+<td width="50%">
+
+**Weekly Commit Pattern**
+
+<img src="https://github-readme-streak-stats.vercel.app/?user=OFX-AXOS&theme=dark&hide_border=true&background=0d1117&stroke=1793D1&ring=58a6ff&fire=58a6ff&currStreakLabel=1793D1&sideLabels=1793D1&currStreakNum=58a6ff&sideNums=58a6ff" alt="GitHub Streak"/>
+
+</td>
+<td width="50%">
+
+**Consistency Metrics**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OFX-AXOS&theme=github_dark&utcOffset=5.75" alt="Productive Time"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -226,26 +248,83 @@ Productivity-focused
 
 ## 📐 Core Principles
 
-```conf
-# .axos_config
+<div align="center">
 
-[development_philosophy]
-approach = "fundamentals_before_frameworks"
-learning_method = "read_real_codebases"
-iteration_strategy = "build_small_iterate_hard"
-environment = "linux_first_cli_focused"
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[technical_values]
-code_quality = "correctness > cleverness"
-dependencies = "minimal_and_justified"
-documentation = "self_documenting_code"
-consistency = "daily_incremental_progress"
+```yaml
+# System Configuration: axos.yaml
 
-[system_optimization]
-performance = "profile_before_optimize"
-architecture = "simple_until_complex_is_needed"
-tools = "understand_before_abstract"
+development:
+  philosophy: "Fundamentals before Frameworks"
+  approach: "Understand before Abstract"
+  method: "Read Real Codebases"
+  iteration: "Build Small, Iterate Hard"
+
+environment:
+  primary_os: "Arch Linux"
+  workflow: "CLI-First Development"
+  version_control: "Git + GitHub"
+  automation: "Shell Scripts & Aliases"
+
+code_standards:
+  priority: "Correctness > Cleverness"
+  quality: "Readable > Compact"
+  dependencies: "Minimal & Justified"
+  testing: "Manual → Automated"
+
+learning:
+  strategy: "Deep Understanding"
+  resources: ["Documentation", "Source Code", "Technical Blogs"]
+  focus: "One Concept at a Time"
+  progress: "Consistency > Intensity"
 ```
+
+</td>
+<td width="50%" valign="top">
+
+```ini
+; Core Operating Principles
+
+[TECHNICAL_VALUES]
+architecture = simple_until_complexity_needed
+optimization = profile_before_optimize
+documentation = code_should_explain_itself
+tooling = understand_the_tool_first
+
+[LEARNING_PATH]
+stage_1 = master_fundamentals
+stage_2 = understand_patterns
+stage_3 = explore_frameworks
+stage_4 = build_production_ready
+
+[WORKFLOW]
+planning = think_first_code_second
+development = incremental_commits
+debugging = systematic_elimination
+deployment = test_thoroughly
+
+[SYSTEM_BELIEFS]
+complexity = enemy_of_reliability
+simplicity = foundation_of_maintenance
+consistency = key_to_mastery
+patience = prerequisite_for_quality
+```
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**System Motto**: `while (learning) { build(); iterate(); improve(); }`
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -257,7 +336,6 @@ tools = "understand_before_abstract"
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
 ---
